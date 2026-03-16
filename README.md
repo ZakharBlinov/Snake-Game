@@ -144,8 +144,7 @@
 Snake-Game/
 ├── 📄 snake.html          # Основной файл игры (весь код: HTML, CSS, JavaScript)
 ├── 📄 manifest.json       # PWA манифест для установки на устройства
-├── 📄 sw.js              # Service Worker для оффлайн-режима
-├── 📄 demo.gif           # Демонстрационное видео работы игры
+├── 📄 sw.js              # Service Worker для оффлайн-режима         
 └── 📄 README.md          # Документация проекта
 ```
 
