@@ -55,7 +55,7 @@
 ## 📦 ИНСТРУКЦИЯ ПО ЗАПУСКУ
 
 ### Вариант 1: Онлайн (без установки)
-1. Перейдите по ссылке: [https://zakharblinov.github.io/Snake-Game/snake.html](https://zakharblinov.github.io/Snake-Game/snake.html)
+1. Перейдите по ссылке: [https://zakharblinov.github.io/Snake-Game/snake.html](https://zakharblinov.github.io/Snake-Game/)
 2. Игра запустится автоматически в браузере
 
 ### Вариант 2: Локальный запуск (из репозитория)
