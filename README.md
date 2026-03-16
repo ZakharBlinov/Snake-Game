@@ -6,3 +6,5 @@
 </p>
 
 ## Следующий заголовок
+
+[![Maintainability](https://qlty.sh/gh/ZakharBlinov/projects/Snake-Game/maintainability.svg)](https://qlty.sh/gh/ZakharBlinov/projects/Snake-Game)
